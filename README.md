@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shiva Vardhan Alli
 
-🚀 AI/ML & Generative AI Developer | Python | Backend Systems  
+🚀 Generative AI & Machine Learning Engineer | Python | RAG | LLMs | LangChain
 
-I build real-world AI applications focused on **LLMs, RAG systems, and data-driven solutions**.  
-Passionate about solving practical problems using AI, APIs, and scalable backend workflows.
+I build end-to-end AI applications using LLMs, Retrieval-Augmented Generation, machine learning and deep learning. My projects focus on semantic retrieval, AI automation, computer vision and production-oriented AI applications.
 
 ---
 
